@@ -1,2 +1,3 @@
 # learn_autotest
-my first autotest project
+My first autotest project.
+Inspired by stepik course.
